@@ -1,0 +1,15 @@
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\bin\Debug\net7.0\1929. Concatenation of Array(e).exe
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\bin\Debug\net7.0\1929. Concatenation of Array(e).deps.json
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\bin\Debug\net7.0\1929. Concatenation of Array(e).runtimeconfig.json
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\bin\Debug\net7.0\1929. Concatenation of Array(e).dll
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\bin\Debug\net7.0\1929. Concatenation of Array(e).pdb
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\obj\Debug\net7.0\1929. Concatenation of Array(e).csproj.AssemblyReference.cache
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\obj\Debug\net7.0\1929. Concatenation of Array(e).GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\obj\Debug\net7.0\1929. Concatenation of Array(e).AssemblyInfoInputs.cache
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\obj\Debug\net7.0\1929. Concatenation of Array(e).AssemblyInfo.cs
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\obj\Debug\net7.0\1929. Concatenation of Array(e).csproj.CoreCompileInputs.cache
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\obj\Debug\net7.0\1929. Concatenation of Array(e).dll
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\obj\Debug\net7.0\refint\1929. Concatenation of Array(e).dll
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\obj\Debug\net7.0\1929. Concatenation of Array(e).pdb
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\obj\Debug\net7.0\1929. Concatenation of Array(e).genruntimeconfig.cache
+C:\Projects\Leetcode\1929. Concatenation of Array(e)\obj\Debug\net7.0\ref\1929. Concatenation of Array(e).dll

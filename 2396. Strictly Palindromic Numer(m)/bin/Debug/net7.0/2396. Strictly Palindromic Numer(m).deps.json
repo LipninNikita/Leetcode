@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "2396. Strictly Palindromic Numer(m)/1.0.0": {
+        "runtime": {
+          "2396. Strictly Palindromic Numer(m).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2396. Strictly Palindromic Numer(m)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

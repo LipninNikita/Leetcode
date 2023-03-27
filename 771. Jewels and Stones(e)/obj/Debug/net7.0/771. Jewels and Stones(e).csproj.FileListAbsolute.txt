@@ -1,0 +1,15 @@
+C:\Projects\Leetcode\771. Jewels and Stones(e)\bin\Debug\net7.0\771. Jewels and Stones(e).exe
+C:\Projects\Leetcode\771. Jewels and Stones(e)\bin\Debug\net7.0\771. Jewels and Stones(e).deps.json
+C:\Projects\Leetcode\771. Jewels and Stones(e)\bin\Debug\net7.0\771. Jewels and Stones(e).runtimeconfig.json
+C:\Projects\Leetcode\771. Jewels and Stones(e)\bin\Debug\net7.0\771. Jewels and Stones(e).dll
+C:\Projects\Leetcode\771. Jewels and Stones(e)\bin\Debug\net7.0\771. Jewels and Stones(e).pdb
+C:\Projects\Leetcode\771. Jewels and Stones(e)\obj\Debug\net7.0\771. Jewels and Stones(e).csproj.AssemblyReference.cache
+C:\Projects\Leetcode\771. Jewels and Stones(e)\obj\Debug\net7.0\771. Jewels and Stones(e).GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Leetcode\771. Jewels and Stones(e)\obj\Debug\net7.0\771. Jewels and Stones(e).AssemblyInfoInputs.cache
+C:\Projects\Leetcode\771. Jewels and Stones(e)\obj\Debug\net7.0\771. Jewels and Stones(e).AssemblyInfo.cs
+C:\Projects\Leetcode\771. Jewels and Stones(e)\obj\Debug\net7.0\771. Jewels and Stones(e).csproj.CoreCompileInputs.cache
+C:\Projects\Leetcode\771. Jewels and Stones(e)\obj\Debug\net7.0\771. Jewels and Stones(e).dll
+C:\Projects\Leetcode\771. Jewels and Stones(e)\obj\Debug\net7.0\refint\771. Jewels and Stones(e).dll
+C:\Projects\Leetcode\771. Jewels and Stones(e)\obj\Debug\net7.0\771. Jewels and Stones(e).pdb
+C:\Projects\Leetcode\771. Jewels and Stones(e)\obj\Debug\net7.0\771. Jewels and Stones(e).genruntimeconfig.cache
+C:\Projects\Leetcode\771. Jewels and Stones(e)\obj\Debug\net7.0\ref\771. Jewels and Stones(e).dll

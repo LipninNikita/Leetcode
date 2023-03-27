@@ -1,0 +1,15 @@
+C:\Projects\Leetcode\9. Palindrome Number\bin\Debug\net7.0\9. Palindrome Number.exe
+C:\Projects\Leetcode\9. Palindrome Number\bin\Debug\net7.0\9. Palindrome Number.deps.json
+C:\Projects\Leetcode\9. Palindrome Number\bin\Debug\net7.0\9. Palindrome Number.runtimeconfig.json
+C:\Projects\Leetcode\9. Palindrome Number\bin\Debug\net7.0\9. Palindrome Number.dll
+C:\Projects\Leetcode\9. Palindrome Number\bin\Debug\net7.0\9. Palindrome Number.pdb
+C:\Projects\Leetcode\9. Palindrome Number\obj\Debug\net7.0\9. Palindrome Number.csproj.AssemblyReference.cache
+C:\Projects\Leetcode\9. Palindrome Number\obj\Debug\net7.0\9. Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Leetcode\9. Palindrome Number\obj\Debug\net7.0\9. Palindrome Number.AssemblyInfoInputs.cache
+C:\Projects\Leetcode\9. Palindrome Number\obj\Debug\net7.0\9. Palindrome Number.AssemblyInfo.cs
+C:\Projects\Leetcode\9. Palindrome Number\obj\Debug\net7.0\9. Palindrome Number.csproj.CoreCompileInputs.cache
+C:\Projects\Leetcode\9. Palindrome Number\obj\Debug\net7.0\9. Palindrome Number.dll
+C:\Projects\Leetcode\9. Palindrome Number\obj\Debug\net7.0\refint\9. Palindrome Number.dll
+C:\Projects\Leetcode\9. Palindrome Number\obj\Debug\net7.0\9. Palindrome Number.pdb
+C:\Projects\Leetcode\9. Palindrome Number\obj\Debug\net7.0\9. Palindrome Number.genruntimeconfig.cache
+C:\Projects\Leetcode\9. Palindrome Number\obj\Debug\net7.0\ref\9. Palindrome Number.dll

@@ -1,0 +1,15 @@
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\bin\Debug\net7.0\2396. Strictly Palindromic Numer(m).exe
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\bin\Debug\net7.0\2396. Strictly Palindromic Numer(m).deps.json
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\bin\Debug\net7.0\2396. Strictly Palindromic Numer(m).runtimeconfig.json
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\bin\Debug\net7.0\2396. Strictly Palindromic Numer(m).dll
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\bin\Debug\net7.0\2396. Strictly Palindromic Numer(m).pdb
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\obj\Debug\net7.0\2396. Strictly Palindromic Numer(m).csproj.AssemblyReference.cache
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\obj\Debug\net7.0\2396. Strictly Palindromic Numer(m).GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\obj\Debug\net7.0\2396. Strictly Palindromic Numer(m).AssemblyInfoInputs.cache
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\obj\Debug\net7.0\2396. Strictly Palindromic Numer(m).AssemblyInfo.cs
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\obj\Debug\net7.0\2396. Strictly Palindromic Numer(m).csproj.CoreCompileInputs.cache
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\obj\Debug\net7.0\2396. Strictly Palindromic Numer(m).dll
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\obj\Debug\net7.0\refint\2396. Strictly Palindromic Numer(m).dll
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\obj\Debug\net7.0\2396. Strictly Palindromic Numer(m).pdb
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\obj\Debug\net7.0\2396. Strictly Palindromic Numer(m).genruntimeconfig.cache
+C:\Projects\Leetcode\2396. Strictly Palindromic Numer(m)\obj\Debug\net7.0\ref\2396. Strictly Palindromic Numer(m).dll
