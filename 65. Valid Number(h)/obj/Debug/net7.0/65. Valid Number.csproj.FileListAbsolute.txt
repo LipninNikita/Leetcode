@@ -1,0 +1,15 @@
+C:\Projects\Leetcode\65. Valid Number\bin\Debug\net7.0\65. Valid Number.exe
+C:\Projects\Leetcode\65. Valid Number\bin\Debug\net7.0\65. Valid Number.deps.json
+C:\Projects\Leetcode\65. Valid Number\bin\Debug\net7.0\65. Valid Number.runtimeconfig.json
+C:\Projects\Leetcode\65. Valid Number\bin\Debug\net7.0\65. Valid Number.dll
+C:\Projects\Leetcode\65. Valid Number\bin\Debug\net7.0\65. Valid Number.pdb
+C:\Projects\Leetcode\65. Valid Number\obj\Debug\net7.0\65. Valid Number.csproj.AssemblyReference.cache
+C:\Projects\Leetcode\65. Valid Number\obj\Debug\net7.0\65. Valid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Leetcode\65. Valid Number\obj\Debug\net7.0\65. Valid Number.AssemblyInfoInputs.cache
+C:\Projects\Leetcode\65. Valid Number\obj\Debug\net7.0\65. Valid Number.AssemblyInfo.cs
+C:\Projects\Leetcode\65. Valid Number\obj\Debug\net7.0\65. Valid Number.csproj.CoreCompileInputs.cache
+C:\Projects\Leetcode\65. Valid Number\obj\Debug\net7.0\65. Valid Number.dll
+C:\Projects\Leetcode\65. Valid Number\obj\Debug\net7.0\refint\65. Valid Number.dll
+C:\Projects\Leetcode\65. Valid Number\obj\Debug\net7.0\65. Valid Number.pdb
+C:\Projects\Leetcode\65. Valid Number\obj\Debug\net7.0\65. Valid Number.genruntimeconfig.cache
+C:\Projects\Leetcode\65. Valid Number\obj\Debug\net7.0\ref\65. Valid Number.dll
